@@ -1,5 +1,5 @@
 ---
-role: Machine Learning and Healthcare Transformation
+role: ""
 avatar_filename: profile.jpg
 bio: ""
 interests: []
