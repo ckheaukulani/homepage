@@ -9,7 +9,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ckheaukulani
+    link: https://twitter.com/cheaukulani
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6dUb5RMAAAAJ&hl=en
@@ -23,19 +23,7 @@ organizations:
   - name: Ministry of Health (Singapore) - Office for Healthcare Transformation
     url: https://www.moht.com.sg
 education:
-  courses:
-    - course: PhD in Machine Learning
-      institution: University of Cambridge
-      year: 2016
-    - course: Master of Advanced Studies in Mathematics (Part III of the Maths Tripos)
-      institution: University of Cambridge
-      year: 2011
-    - course: Master of Arts in Statistics
-      institution: Yale University
-      year: 2010
-    - course: Bachelor of Arts in Mathematics and Economics
-      institution: University of Virginia
-      year: 2009
+  courses: []
 superuser: true
 highlight_name: false
 title: Creighton Heaukulani
