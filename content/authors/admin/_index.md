@@ -1,4 +1,5 @@
 ---
+title: Creighton Heaukulani
 role: ""
 avatar_filename: avatar.jpg
 bio: ""
@@ -20,12 +21,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/creightonheaukulani/
 organizations:
-  - name: Ministry of Health (Singapore), Office for Healthcare Transformation
+  - name: Ministry of Health (Singapore)
     url: https://www.moht.com.sg
+  - name: Office for Heathcare Transformation
+    url: https://www.moht.com.sg
+email: ""
 superuser: true
 highlight_name: false
-title: Creighton Heaukulani
-email: ""
 ---
 I am a Senior Assistant Director and a Senior AI & Data Scientist at the Ministry of Health in Singapore, working on system-level healthcare interventions.
 
