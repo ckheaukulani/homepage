@@ -40,4 +40,4 @@ Uber AI, San Francisco, June 2019
 [NetSci 2013 Satellite Symposium](http://www2.imm.dtu.dk/~tuhe/cnmml/), Copenhagen, June 2013
 
 **The negative binomial IBP.** \
-[BNP 9](http://www.bnp9.win.tue.nl/), Amsterdam, March 2013 [[slides](http://heaukulani.org/BNP9_nbprocess.pdf)]
+[BNP 9](http://www.bnp9.win.tue.nl/), Amsterdam, March 2013 [[[slides]](http://heaukulani.org/BNP9_nbprocess.pdf)]
