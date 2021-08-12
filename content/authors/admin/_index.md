@@ -1,6 +1,6 @@
 ---
-title: Creighton Heaukulani
 role: Machine Learning and Healthcare Transformation
+avatar_filename: profile.jpg
 bio: ""
 interests: []
 social:
@@ -36,9 +36,10 @@ education:
     - course: Bachelor of Arts in Mathematics and Economics
       institution: University of Virginia
       year: 2009
-email: ""
 superuser: true
 highlight_name: false
+title: Creighton Heaukulani
+email: ""
 ---
 I am a Senior Assistant Director and a Senior AI & Data Scientist at the Ministry of Health in Singapore, working on system-level healthcare interventions.
 
