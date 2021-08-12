@@ -1,10 +1,9 @@
 ---
 widget: about
-widget_id: About
+widget_id: ABOUT
 headless: true
-weight: 20
+weight: 0
 title: Biography
 active: true
 author: admin
 ---
-Hello testing
