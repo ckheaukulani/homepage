@@ -1,23 +1,13 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: EVENTS
 headless: true
-
-# Order that this section appears on the page.
 weight: 70
-
-title: 'Recent & Upcoming Talks'
-subtitle:
-
+title: Talks & Events
+subtitle: null
 content:
-  # Page type to display. E.g. post, event, publication...
   page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
   count: 5
-  # Filter on criteria
   filters:
     author: ""
     category: ""
@@ -26,16 +16,28 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 2
 ---
+I co-organized the ICML 2020 workshop on **Healthcare Systems, Population Health, and the Role of Health-tech**, with [Konstantina Palla](https://konstantinapalla.netlify.app/), [Niranjani Prasad](https://niranjaniprasad.github.io/), [Katherine Heller](https://research.google/people/106149/), and [Marzyeh Ghassemi](http://www.marzyehghassemi.com/). \
+Virtual, July 2020. [[website](https://sites.google.com/view/hsys2020)][[recorded talks](https://icml.cc/virtual/2020/workshop/5726)]
+
+**Some Bayesian extensions of neural network-based graphon approximations.** \
+[EcoSta 2018](http://cmstatistics.org/EcoSta2018/), Hong Kong, June 2018 [[slides](http://heaukulani.org/ecosta18-slides.pdf)] \
+Microsoft Research Cambridge, Cambridge, UK, August 2018 \
+Uber AI, San Francisco, June 2019
+
+**Random partition based inference schemes for feature allocations.** \
+[BNP 10](http://www2.stat.duke.edu/bnp10/index.html%3Fpage_id=88.html), Raleigh--Durham, June 2015 [[slides](http://heaukulani.org/BNP10_cupinference.pdf)]
+
+**Beta diffusion trees.** \
+[ICML 2014](http://icml.cc/2014/), Beijing, June 2014 [[slides](http://heaukulani.org/LFP_Presentation.pdf)]
+
+**Probabilistic latent feature propagation in social networks.** \
+[ICML 2013](http://icml.cc/2013/), Atlanta, June 2013 [[slides](http://heaukulani.org/LFP_Presentation.pdf)] \
+[NetSci 2013 Satellite Symposium](http://www2.imm.dtu.dk/~tuhe/cnmml/), Copenhagen, June 2013
+
+**The negative binomial IBP.** \
+[BNP 9](http://www.bnp9.win.tue.nl/), Amsterdam, March 2013 [[slides](http://heaukulani.org/BNP9_nbprocess.pdf)]
