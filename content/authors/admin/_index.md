@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/creightonheaukulani/
 organizations:
-  - name: Ministry of Health (Singapore) - Office for Healthcare Transformation
+  - name: Ministry of Health (Singapore), Office for Healthcare Transformation
     url: https://www.moht.com.sg
 education:
   courses: []
