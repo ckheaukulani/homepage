@@ -22,8 +22,6 @@ social:
 organizations:
   - name: Ministry of Health (Singapore), Office for Healthcare Transformation
     url: https://www.moht.com.sg
-education:
-  courses: []
 superuser: true
 highlight_name: false
 title: Creighton Heaukulani
