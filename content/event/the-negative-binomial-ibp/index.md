@@ -1,7 +1,7 @@
 ---
 title: The negative binomial IBP
 abstract: The combinatorial structure underlying the negative binomial process
-location: Amsterdam
+location: 9th Workshop on Bayesian Nonparametrics (BNP9), Amsterdam
 date: 2013-06-13T07:00:00.000Z
 date_end: 2013-06-13T08:00:27.030Z
 all_day: false
