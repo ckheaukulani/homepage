@@ -8,7 +8,7 @@ all_day: false
 event: 9th Conference on Bayesian Nonparametrics
 event_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO2teqmK3yAhXHT30KHQXDAEQQFnoECBcQAQ&url=http%3A%2F%2Fwww.bnp9.win.tue.nl%2Fwp-content%2Fuploads%2F2013%2F05%2Fschedule21.pdf&usg=AOvVaw3Rq02i1SbbYPw0heqxWrWn
 publishDate: 2021-08-13T04:46:00.360Z
-slides: BNP9_nbprocess.pdf
+slides: assets/media/bnp9_nbprocess.pdf
 draft: false
 featured: false
 image:
