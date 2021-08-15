@@ -2,7 +2,7 @@
 widget: pages
 widget_id: EVENTS
 headless: true
-weight: 70
+weight: 90
 title: Talks & Events
 subtitle: null
 content:
