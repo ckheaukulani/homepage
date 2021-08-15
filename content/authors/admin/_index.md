@@ -29,19 +29,13 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Senior Assistant Director and a Senior AI & Data Scientist at the Ministry of Health in Singapore, working on system-level healthcare interventions.
+I am a machine learning specialist at the Ministry of Health in Singapore, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives (in which we run programs and clinical trials and develop digital health tools, among other interventions), and I am active in the basic machine learning research community.
+
+I utilize Bayesian methods and deep learning
 
 ### Work or collaborate with us
 
 We are looking for interns, graduate students, and full-time hires across a range of needs. Those that would be working with me include data scientists a
-
-###### PhD students
-
-###### Masters level students
-
-###### Undergraduates
-
-###### Faculty and Industry Collaborators
 
 ### Background
 
