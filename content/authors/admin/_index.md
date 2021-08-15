@@ -29,15 +29,16 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a machine learning specialist at the Ministry of Health in Singapore, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives (in which we run programs, partner on clinical trials, and develop digital health tools, among other interventions), and I am active in the basic machine learning research community.
+I am a machine learning specialist within Singapore's Ministry of Health Office for Healthcare Transformation, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives and I am active in the basic machine learning research community.
 
-My work usually favors methods from Bayesian modeling and inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial data, and performing inference in systems with multiple sensors.
+From a machine learning perspective: My work usually favors methods from Bayesian inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial and electronic health record data, and modeling the behavior of individuals with data from multiple sensors.
 
-I work within the Ministry for Healthcare Transformation (MOHT) under the direction of the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. Our current efforts 
+From a healthcare perspective: I am a part of the Ministry for Healthcare Transformation (MOHT) where I work with the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. We run programs, partner on clinical trials, and develop digital health tools, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
+
 
 ### Working and collaborating with us
 
-We are looking for interns, graduate students, and full-time hires across a range of needs. Those that would be working with me include data scientists a
+We seek interns, graduate students, and full-time hires across a range of needs. Those that would be working with me include data scientists and public health 
 
 We have close, vibrant partnerships with several institutions across Singapore and beyond including the Institute of Mental Health, the Health Promotion Board, clinicians and researchers across health clusters and Universities, tech companies, and start-ups. 
 
