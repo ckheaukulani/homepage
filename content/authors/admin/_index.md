@@ -33,14 +33,12 @@ I am a machine learning specialist within Singapore's Ministry of Health Office 
 
 From a machine learning perspective: My work usually favors methods from Bayesian inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial and electronic health record data, and modeling the behavior of individuals with data from multiple sensors.
 
-From a healthcare perspective: I am a part of the Ministry for Healthcare Transformation (MOHT) where I work with the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. We run programs, partner on clinical trials, and develop digital health tools, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
+From a healthcare perspective: I work with the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. We run programs, partner on clinical trials, and develop digital health platforms, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
 
 
-### Working and collaborating with us
+### Working with our team
 
-We seek interns, graduate students, and full-time hires across a range of needs. Those that would be working with me include data scientists and public health 
-
-We have close, vibrant partnerships with several institutions across Singapore and beyond including the Institute of Mental Health, the Health Promotion Board, clinicians and researchers across health clusters and Universities, tech companies, and start-ups. 
+Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting data scientists and those focused on the design and evaluation of population health programs. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
 
 ### About
 
