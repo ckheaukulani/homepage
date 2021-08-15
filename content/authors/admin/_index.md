@@ -29,9 +29,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a machine learning specialist at the Ministry of Health in Singapore, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives (in which we run programs and clinical trials and develop digital health tools, among other interventions), and I am active in the basic machine learning research community.
+I am a machine learning specialist at the Ministry of Health in Singapore, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives (in which we run programs, partner on clinical trials, and develop digital health tools, among other interventions), and I am active in the basic machine learning research community.
 
-I utilize Bayesian methods and deep learning
+My work usually favors methods from Bayesian modeling and inference and deep learning, and I have recently focused on the modeling of highly-structured time series, network/relational data, phenomena in social cognition, and data from clinical trials.
 
 ### Work or collaborate with us
 
