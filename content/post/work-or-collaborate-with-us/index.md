@@ -12,6 +12,8 @@ image:
 
 We are looking for interns, graduate students, and full-time hires across a range of needs. Those that would be working with me include data scientists a
 
+We have close, vibrant partnerships with several institutions across Singapore and beyond including the Institute of Mental Health, the Health Promotion Board, clinicians and researchers across health clusters and Universities, tech companies, and start-ups. 
+
 ###### PhD students
 
 ###### Masters level students
