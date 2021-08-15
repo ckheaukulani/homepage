@@ -33,7 +33,7 @@ I am a machine learning specialist at the Ministry of Health in Singapore, worki
 
 My work usually favors methods from Bayesian modeling and inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial data, and performing inference in systems with multiple sensors.
 
-I work within the Ministry for Healthcare Transformation (MOHT), where our current efforts 
+I work within the Ministry for Healthcare Transformation (MOHT) under the direction of the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. Our current efforts 
 
 ### Working and collaborating with us
 
@@ -43,10 +43,4 @@ We have close, vibrant partnerships with several institutions across Singapore a
 
 ### About
 
-I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). 
-
-Lancelot F. James 
-Several indiviudals who have guided me in the past, 
-was previously supervised by [Andrew R. Barron](http://www.stat.yale.edu/~arb4/) and [Sekhar Tatikonda](http://pantheon.yale.edu/~sct29/) in the Statistics Department at Yale University.
-
-Amongst my previous roles, I was a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to establish a machine learning team in the Securities division.
+I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). My fellowship was awarded by the Cambridge Trusts and Queens' College. During my PhD, I undertook a few internships and consulted, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division. 
