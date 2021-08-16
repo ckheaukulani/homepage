@@ -33,12 +33,12 @@ I am a Senior AI & Data Scientist in Singapore's Ministry of Health Office for H
 
 From a machine learning perspective: My work usually favors methods from Bayesian inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial and electronic health record data, and modeling the behavior of individuals with data from multiple sensors.
 
-From a healthcare perspective: I work with the technologist Robert JT Morris and Singapore's Chief Health Scientist Chor Chuan Tan. We run programs, partner on clinical trials, and develop digital health platforms, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
+From a healthcare perspective: We run population health programs, partner on clinical trials, and develop digital health platforms, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
 
 
 ### Working with our team
 
-Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting data scientists and those focused on the design and evaluation of population health programs. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
+Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting data scientists and those focused on the design and evaluation of population health programs that use innovative technologies. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
 
 ### About
 
