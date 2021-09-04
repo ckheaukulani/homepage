@@ -35,11 +35,10 @@ From a machine learning perspective: My work usually favors methods from Bayesia
 
 From a healthcare perspective: We run population health programs, partner on clinical trials, and develop digital health platforms, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
 
-
 ### Working with our team
 
-Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting data scientists and those focused on the design and evaluation of population health programs that use innovative technologies. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
+Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting/working with data scientists and those focused on the design and evaluation of population health programs that use innovative technologies. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
 
 ### About
 
-I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). My fellowship was awarded by the Cambridge Trusts and Queens' College. During my PhD, I undertook a few internships and consulted, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division. 
+I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). My fellowship was awarded by the Cambridge Trusts and Queens' College. During my PhD, I undertook a few internships and consulted, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division.
