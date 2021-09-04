@@ -33,7 +33,7 @@ I am a Senior AI & Data Scientist in Singapore's Ministry of Health Office for H
 
 From a machine learning perspective: My work usually favors methods from Bayesian inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial and electronic health record data, and modeling the behavior of individuals with data from multiple sensors.
 
-From a healthcare perspective: We run population health programs, partner on clinical trials, and develop digital health platforms, among other interventions. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
+From a healthcare perspective: We run population health programs, partner on clinical trials, and develop digital health platforms, among other initiatives. My current efforts revolve around mental health, chronic diseases, and the deployment of digital health solutions like digital phenotyping.
 
 ### Working with our team
 
