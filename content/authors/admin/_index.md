@@ -41,4 +41,4 @@ Our Data, Science, & Technology team seeks interns, graduate students, and full-
 
 ### About
 
-I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). My fellowship was awarded by the Cambridge Trusts and Queens' College. During my PhD, I undertook a few internships and consulted, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division.
+I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). During my PhD, I undertook a few internships and was a machine learning consultant for companies, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division.
