@@ -29,7 +29,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Senior AI & Data Scientist in Singapore's Ministry of Health Office for Healthcare Transformation, working on system-level healthcare innovation. My work contributes to several health-tech and population health initiatives and I am active in the basic machine learning research community.
+I am a Senior AI & Data Scientist in Singapore's Ministry of Health Office for Healthcare Transformation, working on system-level healthcare innovation. I am a machine learning scientist and engineer by training, and my current work contributes to several health-tech and population health initiatives. I am also active in the basic machine learning research community.
 
 From a machine learning perspective: My work usually favors methods from Bayesian inference and deep learning. Recent general themes include the modeling of highly-structured time series and relational networks, analyzing clinical trial and electronic health record data, and modeling the behavior of individuals with data from multiple sensors.
 
