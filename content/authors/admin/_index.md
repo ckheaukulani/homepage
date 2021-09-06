@@ -37,8 +37,8 @@ From a healthcare perspective: We run population health programs, partner on cli
 
 ### Working with our team
 
-Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. I am personally interested in recruiting/working with data scientists and those focused on the design and evaluation of population health programs that use innovative technologies. I also aim to develop collaborations with machine learning researchers. Please see below for more details.
+Our Data, Science, & Technology team seeks interns, graduate students, and full-time hires across a range of needs. Those that would work directly with me include data scientists as well as those focused on the design and evaluation of population health programs that use innovative technologies. Please see below for more details.
 
 ### About
 
-I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). During my PhD, I undertook a few internships and was a machine learning consultant for companies, and I subsequently worked as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division.
+I completed my PhD in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge, under the supervision of [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/). My work around that time focused on Bayesian nonparametrics, network modeling, Bayesian deep learning, MCMC, and variational inference. During my PhD, I did a few internships and was a machine learning consultant for companies, and more recently I was as a Vice President & Executive Director at Goldman Sachs in Hong Kong, where I helped to develop a machine learning team in the Securities division.
