@@ -39,6 +39,11 @@ NeurIPS, 2019. \
 ICML 2019 Workshop on Learning and Reasoning with Graph-Structured Data. \
 [[paper](https://arxiv.org/abs/1905.04502)] [[code](https://github.com/ckheaukulani/bayes-nnet-mf)]
 
+**Black-box constructions for exchangeable sequences of random multisets.** \
+C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
+ArXiv:1908.06349, Aug 2019. \
+[[paper](https://arxiv.org/abs/1908.06349)]
+
 **Bayesian inference on random simple graphs with power law degree distributions.** \
 [Juho Lee](http://mlg.postech.ac.kr/~stonecold/), C. Heaukulani, [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/), [Lancelot F. James](http://www.bm.ust.hk/isom/staff/lancelot.html), and [Seungjin Choi](http://mlg.postech.ac.kr/~seungjin/) \
 ICML, 2017. \
@@ -46,17 +51,12 @@ ICML, 2017. \
 
 **Generalized IBPs, random multisets, and tree-structured feature allocations.** \
 PhD Thesis. \
-University of Cambridge, Sept. 2016. \
+University of Cambridge, Jan 2016. \
 [[pdf](http://heaukulani.org/thesis.pdf)]
-
-**Black-box constructions for exchangeable sequences of random multisets.** \
-C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
-ArXiv. \
-[[paper](https://arxiv.org/abs/1908.06349)]
 
 **Gibbs-type Indian buffet processes.** \
 C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
-Bayesian Analysis, Vol. 15, No. 3, 683--710, 2020. \
+Bayesian Analysis, Vol. 15, No. 3, 683--710, 2020. (First appeared Dec 2015.)\
 [[paper](https://projecteuclid.org/euclid.ba/1560909812)]
 
 **Beta diffusion trees and hierarchical feature allocations.** \
@@ -66,7 +66,7 @@ ICML, 2014. Extended version. \
 
 **The combinatorial structure of beta negative binomial processes.** \
 C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
-Bernoulli, Vol. 22, No. 4, 2301--2324, 2016. \
+Bernoulli, Vol. 22, No. 4, 2301--2324, 2016. (First appeared Dec 2013.)\
 [[paper](http://arxiv.org/abs/1401.0062)][[slides](http://heaukulani.org/BNP9_nbprocess.pdf)]
 
 **Dynamic probabilistic models for latent feature propagation in social networks.** \
