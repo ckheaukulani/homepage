@@ -19,16 +19,14 @@ content:
 design:
   view: 4
 ---
-
-
 **Association between wrist wearable digital markers and clinical status in Schizophrenia.** \
 W Martanto, YY Koh, Z Yang, C Heaukulani, X Wang, NAA Rashid, A Sim, S Zheng, C Tang, S Verma, RJT Morris, J Lee \
-General Hospital Psychiatry, Letter to the Editor, Jan 2021. \
+General Hospital Psychiatry (Letter to the Editor), Vol. 70, 134--136, 2021. \
 [[paper](https://pubmed.ncbi.nlm.nih.gov/33541723/)]
 
 **HOPES -- An integrative digital phenotyping platform for data collection, monitoring and machine learning.** \
 X. Wang, N. Vouk, C. Heaukulani, T. Bhuddika, W. Martanto, Jimmy Lee, and RJT. Morris \
-ArXiv, Aug 2020. \
+Journal of Medical Internet Research, Vol. 23, No. 3, 2021. \
 [[paper](https://arxiv.org/abs/2008.12431)]
 
 **Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes.** \
