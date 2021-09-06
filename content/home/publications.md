@@ -52,24 +52,24 @@ ICML, 2017. \
 **Generalized IBPs, random multisets, and tree-structured feature allocations.** \
 PhD Thesis. \
 University of Cambridge, Jan 2016. \
-[[pdf](http://heaukulani.org/thesis.pdf)]
+[[pdf](assets/media/heaukulani-thesis.pdf)]
 
 **Gibbs-type Indian buffet processes.** \
 C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
 Bayesian Analysis, Vol. 15, No. 3, 683--710, 2020. (First appeared Dec 2015.)\
-[[paper](https://projecteuclid.org/euclid.ba/1560909812)]
+[[paper](https://projecteuclid.org/euclid.ba/1560909812)][[slides](assets/media/bnp10_slides.pdf)]
 
 **Beta diffusion trees and hierarchical feature allocations.** \
 C. Heaukulani, [David A. Knowles](http://cs.stanford.edu/people/davidknowles/), and [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) \
 ICML, 2014. Extended version. \
-[[paper](http://arxiv.org/abs/1408.3378)][[slides](http://heaukulani.org/BDT_ICML2014.pdf)]
+[[paper](http://arxiv.org/abs/1408.3378)][[slides](assets/media/bdt_icml2014.pdf)]
 
 **The combinatorial structure of beta negative binomial processes.** \
 C. Heaukulani and [Daniel M. Roy](http://danroy.org/) \
 Bernoulli, Vol. 22, No. 4, 2301--2324, 2016. (First appeared Dec 2013.)\
-[[paper](http://arxiv.org/abs/1401.0062)][[slides](http://heaukulani.org/BNP9_nbprocess.pdf)]
+[[paper](http://arxiv.org/abs/1401.0062)][[slides](assets/media/bnp9_nbprocess.pdf)]
 
 **Dynamic probabilistic models for latent feature propagation in social networks.** \
 C. Heaukulani and [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) \
 ICML, 2013. \
-[[paper](http://heaukulani.org/LFP_ICML13.pdf)][[slides](http://heaukulani.org/LFP_Presentation.pdf)]
+[[paper](http://heaukulani.org/LFP_ICML13.pdf)][[slides](assets/media/lfp_presentation.pdf)]
